@@ -1,0 +1,28 @@
+body {
+    background-image: url("spaceiscool.jfif");
+    background-repeat: no-repeat;
+    background-size: 1550px 1550px;
+    color: orangered;
+}
+h1 {
+    font-family: 'Space Mono', monospace;
+    font-size: xx-large;
+}
+a {
+    font-family: 'Space Mono', monospace;
+    font-size: xx-large;
+}
+div{
+    font-size: small;
+}
+.div2{
+    font-size: small;
+}
+#a2 {
+    font-size: medium;
+    color: red;
+    
+}
+#illustration{
+    size: 100px 100px;
+}
